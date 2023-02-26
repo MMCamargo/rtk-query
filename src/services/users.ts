@@ -1,4 +1,3 @@
-import { IUser } from '@/models';
 import { IDefaultResponse } from '@/common/interfaces';
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
