@@ -1,5 +1,5 @@
 {
-	"name": "vite-react-swc-ts-template",
+	"name": "rtk-query",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
